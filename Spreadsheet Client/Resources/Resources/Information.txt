@@ -1,0 +1,14 @@
+Connecting:
+
+
+Editing Cell Content:
+
+Use the content box above the spreadsheet cells.
+Press enter when satisfied with selection.
+
+Formulas have the form =formula
+
+Ex: =A2+A3-A1
+
+= - / * and parenthesis are all supported by the formula editor as well as cell names. They are case insensitive.
+
